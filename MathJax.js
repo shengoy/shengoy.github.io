@@ -1,0 +1,1 @@
+"use strict";function MathJaxFn(){getScript("https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",function(){document.addEventListener("DOMContentLoaded",function(){MathJax={loader:{source:{"[tex]/amsCd":"[tex]/amscd"}},tex:{inlineMath:[["$","$"],["\\(","\\)"]]}}})})}MathJaxFn(),document.addEventListener("pjax:complete",function(){MathJaxFn()});
