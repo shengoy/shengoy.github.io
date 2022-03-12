@@ -8,7 +8,7 @@
       <link href="/2022/03/08/Markdown%20%E7%94%A8%E6%B3%95/"/>
       <url>/2022/03/08/Markdown%20%E7%94%A8%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>这边文章是介绍如何在 Markdown 中增加文献引用。<a href="#refer-anchor-1"><sup>1</sup></a></p><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><div id="refer-anchor-1"></div><ul><li>[1] <a href="http://xueshu.baidu.com/">百度学术</a></li></ul><div id="refer-anchor-2"></div><ul><li>[2] <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li></ul><h2 id="数学公式"><a href="#数学公式" class="headerlink" title="数学公式"></a>数学公式</h2><h3 id="矩阵"><a href="#矩阵" class="headerlink" title="矩阵"></a>矩阵</h3><p>$$<br>\left|\begin{matrix}<br>    1 &amp; 2 &amp; 3 \<br>    4 &amp; 5 &amp; 6 \<br>    7 &amp; 8 &amp; 9<br>   \end{matrix} \right|<br>$$</p><h3 id="符号"><a href="#符号" class="headerlink" title="符号"></a>符号</h3><p>$$<br>\sum、\int、\oint、\iint<br>$$</p><p>$$<br>\bigcap\bigcup\bigoplus\bigotimes<br>$$<br> $ \times $、 $ \ast $ 、$ \div $ 、$ \pm $ 、$ \mp $ 、$ \leq $ 、$ \geq $ 、$ \lessgtr $</p><h3 id="上下标"><a href="#上下标" class="headerlink" title="上下标"></a>上下标</h3><p>$$<br> \sin^2(\theta) + \cos^2(\theta) &#x3D; 1<br>$$</p><p>$$<br> \sum_{n&#x3D;1}^\infty k<br>$$</p><p>$$<br> \int_a^bf(x),dx<br>$$</p><p>$$<br>\lim\limits_{x\to\infty}\exp(-x) &#x3D; 0<br>$$</p><p>$$<br>\int_{x^2+y^2\leq R^2} ,f(x,y),dx,dy &#x3D; \int_{\theta&#x3D;0}^{2\pi}\int_{r&#x3D;0}^R ,f(r\cos\theta,r\sin\theta),r,dr,d\theta<br>$$</p><p>test1</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>这边文章是介绍如何在 Markdown 中增加文献引用。<a href="#refer-anchor-1"><sup>1</sup></a></p><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><div id="refer-anchor-1"></div><ul><li>[1] <a href="http://xueshu.baidu.com/">百度学术</a></li></ul><div id="refer-anchor-2"></div><ul><li>[2] <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li></ul><h2 id="数学公式"><a href="#数学公式" class="headerlink" title="数学公式"></a>数学公式</h2><h3 id="矩阵"><a href="#矩阵" class="headerlink" title="矩阵"></a>矩阵</h3><p>$$<br>\left|\begin{matrix}<br>    1 &amp; 2 &amp; 3 \<br>    4 &amp; 5 &amp; 6 \<br>    7 &amp; 8 &amp; 9<br>   \end{matrix} \right|<br>$$</p><h3 id="符号"><a href="#符号" class="headerlink" title="符号"></a>符号</h3><p>$$<br>\sum、\int、\oint、\iint<br>$$</p><p>$$<br>\bigcap\bigcup\bigoplus\bigotimes<br>$$<br> $ \times $、 $ \ast $ 、$ \div $ 、$ \pm $ 、$ \mp $ 、$ \leq $ 、$ \geq $ 、$ \lessgtr $</p><h3 id="上下标"><a href="#上下标" class="headerlink" title="上下标"></a>上下标</h3><p>$$<br> \sin^2(\theta) + \cos^2(\theta) &#x3D; 1<br>$$</p><p>$$<br> \sum_{n&#x3D;1}^\infty k<br>$$</p><p>$$<br> \int_a^bf(x),dx<br>$$</p><p>$$<br>\lim\limits_{x\to\infty}\exp(-x) &#x3D; 0<br>$$</p><p>$$<br>\int_{x^2+y^2\leq R^2} ,f(x,y),dx,dy &#x3D; \int_{\theta&#x3D;0}^{2\pi}\int_{r&#x3D;0}^R ,f(r\cos\theta,r\sin\theta),r,dr,d\theta<br>$$</p><p>test1</p><p>现在还有部分公式渲染有问题。2022-3-12</p>]]></content>
       
       
       <categories>
@@ -21,31 +21,6 @@
         <tags>
             
             <tag> 教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>老班为什么是神</title>
-      <link href="/2022/03/04/%E8%80%81%E7%8F%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E/"/>
-      <url>/2022/03/04/%E8%80%81%E7%8F%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 日常 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 高中 </tag>
             
         </tags>
       
