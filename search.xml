@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>arxiv 上传流程</title>
+      <link href="/2022/04/30/arxiv-%E4%B8%8A%E4%BC%A0%E6%B5%81%E7%A8%8B/"/>
+      <url>/2022/04/30/arxiv-%E4%B8%8A%E4%BC%A0%E6%B5%81%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>最近有幸中了一篇论文，老板让传一份到arxiv上去，虽然用了挺久的arxiv了，还是第一次上传。特此记录一下，方便以后查看。</p><h3 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h3><p>首先要注册一个arxiv账号，我用的是学校提供的邮箱直接注册的（据说用其他账号注册需要大佬背书）。</p><h3 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h3><p>总共五个步骤，如下图所示。</p><p><img src="https://tvax3.sinaimg.cn/large/006XaTquly1h1tcqq94ynj30ma026aay.jpg" alt="image-20220430221632527"></p><h4 id="Start"><a href="#Start" class="headerlink" title="Start"></a>Start</h4><p>这一步首先需要确认一下个人信息，名字、机构啥的。然后就是<strong>需要选一个许可证</strong>，也就是论文可以开放的程度，我选的是开放程度最低的。还有需要选择论文所属的领域，根据情况自行选择。</p><p><img src="https://tva4.sinaimg.cn/large/006XaTquly1h1td84vv3rj31w90bfqfn.jpg" alt="image-20220430221713627"></p><h4 id="Add-Files"><a href="#Add-Files" class="headerlink" title="Add Files"></a>Add Files</h4><p>这一步就是上传源文件。是可以上传(la)tex编译出来的pdf文件的，但是下一步会被<strong>refuse</strong>，<strong>所以建议将(la)tex文件以及所需的支持文件比如图片和bibtex文件打包成一个zip文件上传</strong>（好像对图片有特别要求，比如要放在和tex文件在同一级目录，不要建一个images文件专门放图片，还有其他要求的报错了再根据要求改吧，我是将图片全部转成pdf了，没有出现报错的情况）。</p><p><img src="https://tva3.sinaimg.cn/large/006XaTquly1h1td8zjvhej30wu0g0qar.jpg" alt="image-20220430221829801"></p><h4 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h4><p>这一步会自动处理上一步上传的文件，比如会解压zip文件，删除里面不必要的文件，然后进行编译。点击 &#x3D;&#x3D;Preview your paper&#x3D;&#x3D; 按钮查看编译后的pdf文件，最好还是看一下吧，有可能会出现排版与本地编译或者和overleaf中不同的情况。</p><p><img src="https://tvax1.sinaimg.cn/large/006XaTquly1h1td94ic98j30kb079q44.jpg" alt="image-20220430221855336"></p><h4 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h4><p>这一步会让你填论文标题、作者、摘要啥的，按要求填就行了。</p><p><img src="https://tva4.sinaimg.cn/large/006XaTquly1h1td9bl735j31jq09o496.jpg" alt="image-20220430222152463"></p><h4 id="Preview"><a href="#Preview" class="headerlink" title="Preview"></a>Preview</h4><p>提交完之后等审核吧，审核通过之前是可以撤回重改的。注意审核通过发表一个版本之后是不可以撤回的，当然可以更新一个版本，但是以前的版本是会一直存在的。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>注册成功之后，按照步骤的指引来走就行，整个流程还是比较简单的。提交文件那一步嫌麻烦的话可以将本地编译通过的tex所在的文件夹直接打包成一个zip文件上传，系统会自动删掉不必要的文件。</p><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a href="https://zhuanlan.zhihu.com/p/109405192">Arxiv 论文提交流程——看这篇就够了 - 知乎 (zhihu.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/271660521">arXiv上传文章流程 - 知乎 (zhihu.com)</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> arxiv </tag>
+            
+            <tag> notes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>服务器问题手册备忘录</title>
       <link href="/2022/04/22/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98%E6%89%8B%E5%86%8C%E5%A4%87%E5%BF%98%E5%BD%95/"/>
       <url>/2022/04/22/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98%E6%89%8B%E5%86%8C%E5%A4%87%E5%BF%98%E5%BD%95/</url>
