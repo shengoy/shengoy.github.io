@@ -13,15 +13,15 @@
     "tap": [
       {
         "file": "motions/tap/08 00_07_38.30-00_07_40.90.mtn",
-        "sound": "motions/tap/08 00_07_38.30-00_07_40.90.wav"
+        "sound": "motions/tap/08 00_07_38.30-00_07_40.90.mp3"
       },
       {
         "file": "motions/tap/08 00_07_55-00_07_59.mtn",
-        "sound": "motions/tap/08 00_07_55-00_07_59.wav"
+        "sound": "motions/tap/08 00_07_55-00_07_59.mp3"
       },
       {
         "file": "motions/tap/08 00_08_02.50-00_08_06.mtn",
-        "sound": "motions/tap/08 00_08_02.50-00_08_06.wav"
+        "sound": "motions/tap/08 00_08_02.50-00_08_06.mp3"
       }
     ],
     "idle": [
